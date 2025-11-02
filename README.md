@@ -1,5 +1,5 @@
 # Hi I'm Mera💫
-🔭 I am a 2nd year computer science Bsc student at Technological University  Dublin<br> 🌱 I’m currently learning python, Java and C
+🔭 I am a 3rd year computer science Bsc student at Technological University  Dublin<br> 🌱 I’m currently learning python, Java and C
 
 
 ## 🌐 Socials
